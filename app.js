@@ -23,6 +23,7 @@ App({
       this.login();
     } else {
       console.log('token=' + token);
+      console.log('token11=' + token);
     }
   },
 
